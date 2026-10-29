@@ -1,0 +1,15 @@
+{
+  "name": "teacher-notes-to-pdf",
+  "description": "Claude plugin for turning handwritten notes into typed PDFs and practice question sheets.",
+  "owner": {
+    "name": "Pramodya De Alwis",
+    "url": "https://github.com/p-dealwis"
+  },
+  "plugins": [
+    {
+      "name": "teacher-notes-to-pdf",
+      "source": "./",
+      "description": "Turn photos of handwritten notes into a neat typed PDF, with optional randomised practice questions, working space and an answer key."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "teacher-notes-to-pdf",
+  "version": "0.1.0",
+  "description": "Turn photos of handwritten notes into a neat typed PDF, with optional randomised practice questions, working space and an answer key. Guided with tap-to-choose questions.",
+  "author": {
+    "name": "Pramodya De Alwis",
+    "url": "https://github.com/p-dealwis"
+  },
+  "homepage": "https://github.com/p-dealwis/teacher-notes-to-pdf",
+  "repository": "https://github.com/p-dealwis/teacher-notes-to-pdf",
+  "license": "MIT",
+  "keywords": ["teaching", "handwriting", "ocr", "pdf", "worksheets", "questions"]
+}
