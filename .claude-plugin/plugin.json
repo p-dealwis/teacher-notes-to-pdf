@@ -1,6 +1,6 @@
 {
   "name": "teacher-notes-to-pdf",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Turn photos of handwritten notes or question papers into a neat typed PDF, a copy with the same questions but new numbers, or new practice questions, with working space and answers.",
   "author": {
     "name": "Pramodya De Alwis",

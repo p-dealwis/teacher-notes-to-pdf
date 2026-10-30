@@ -99,27 +99,27 @@ Don't invent new questions. Do this for **every** paper or list of questions on 
 - Keep each question the same difficulty and shape: the same number of digits, the same operations in the same order, whether there's a remainder, whether rounding is to tens or hundreds, a Roman numeral of similar length. If a "missing digit", "find the base" or "missing exponent" question has a neat answer in the original, make sure the new one does too.
 - Questions with no numbers to change (e.g. "Write a prime close to 40" → change 40; "What is √0" → use another perfect square) still get a sensible new number. If a question truly has nothing to change, keep it as it is.
 - **Layout:** match the original page, as for the typed-up copy (section 3): same columns, same paper positions, same number of pages. If they chose working space, the copy may run to more pages, keeping the columns where they still fit.
-- If they chose several copies, make that many, each with different numbers, labelled "Copy A", "Copy B" and so on, each starting on a new page.
+- If they chose several copies, make that many, each with different numbers, each starting on a new page (no labels; the page break separates them).
 
 ## 2b. New practice questions
 
 - Base them **only on the notes**. Don't add material from outside.
 - **Mix the types:** short answer, fill-in-the-blank, multiple choice, true/false. For maths or number content, add worked problems that use the same method with **new numbers**.
-- **Randomise:** shuffle the order, vary which facts get tested, and change the numbers in calculation questions. Whenever the user asks for a new set, make a fresh one instead of repeating the last. If they chose several copies, make Version A, Version B and so on, each different and each with its own answers.
+- **Randomise:** shuffle the order, vary which facts get tested, and change the numbers in calculation questions. Whenever the user asks for a new set, make a fresh one instead of repeating the last. If they chose several copies, make that many different sets, each on its own page with its own answers.
 - Spread the questions across all the topics in the notes rather than a few.
 - Match the level of difficulty to the notes.
 
 ## 2c. Answers (for 2a and 2b)
 
 - **Check every answer.** For calculations, actually work them out with code, not in your head.
-- **Answers on the last page:** put them on their own page(s) at the end, titled "Answers", numbered to match, so the questions can be printed without them.
-- **Answers in a separate PDF:** leave them out of the main PDF entirely and make a second PDF of just the answers, in the same numbering. With several papers or copies, label each set clearly (e.g. "Paper 2 answers", "Copy B answers").
+- **Answers on the last page:** put them on their own page(s) at the end, numbered and laid out to match the questions (no "Answers" heading), so the questions can be printed without them.
+- **Answers in a separate PDF:** leave them out of the main PDF entirely and make a second PDF of just the answers, in the same numbering. With several papers or copies, keep each set in the same position as its questions (e.g. same column) so they line up without labels.
 
 ## 3. Layout
 
-- A4 paper (or US Letter if the user is in the US), about 1.5–2 cm margins, a clear font at roughly 12–13 pt. If they tap "Make the writing bigger", go up to about 15–16 pt. Page numbers go in the footer when there's more than one page.
+- A4 paper (or US Letter if the user is in the US), about 1.5–2 cm margins, a clear font at roughly 12–13 pt. If they tap "Make the writing bigger", go up to about 15–16 pt.
 - **Typed-up copy mirrors the original page.** Keep the same layout: if the handwriting is in two columns, type it in two columns with a thin line between; keep papers or sections in the same places, separated by a small gap where the numbering restarts. Fit it on the same number of pages as the original (one handwritten page → one typed page), adjusting font size and spacing to fill the page neatly without going below about 10 pt.
-- **No added title or subtitle.** Only include a heading if one is written on the page. For new-number copies and practice questions, a plain label such as "Copy A" or "Practice questions" is fine.
+- **Nothing added by default: only what's on the page.** Don't add titles, subtitles, headers, labels ("Copy A", "Paper 1", "Practice questions", "Answers"), name/date lines or page numbers. Only include a heading if one is written on the page. Add a label only if the user asks for one.
 - **Splitting into pages:** if they chose "New page for each paper or topic", start each paper, topic or section on a new page. Never split a question from its working space across two pages. Keep tables and diagrams whole.
 - **Working space:** "A few lines" means about 3 faint ruled lines (or a small light grid for calculations). "Big space" means about a third of a page for every question. "One question per page" means exactly that.
 - **Several things in one PDF:** typed-up copy first, then the new-numbers copy, then practice questions, each starting on a new page, then the answers at the end (unless they chose a separate answers PDF).
