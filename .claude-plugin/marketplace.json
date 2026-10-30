@@ -9,7 +9,7 @@
     {
       "name": "teacher-notes-to-pdf",
       "source": "./",
-      "description": "Turn photos of handwritten notes into a neat typed PDF, with optional randomised practice questions, working space and an answer key."
+      "description": "Turn photos of handwritten notes or question papers into a neat typed PDF, a copy with the same questions but new numbers, or new practice questions, with working space and answers."
     }
   ]
 }

@@ -1,22 +1,23 @@
 # teacher-notes-to-pdf
 
-A Claude plugin that turns photos of handwritten notes into a neat typed PDF, and can also make randomised practice questions from them.
+A Claude plugin that turns photos of handwritten notes or question papers into a neat typed PDF. It can also make a copy with the same questions but new numbers, or a set of new practice questions.
 
 ## What it does
 
-1. **Types up handwriting.** Upload photos or scans of handwritten pages and get back a clean, A4 PDF that keeps the original wording, headings, tables, maths and diagrams.
-2. **Makes new versions of question papers.** If the notes are question papers (several numbered lists on a page), it makes a new version of every paper: the same questions in the same order, with different numbers so the answers change.
-3. **Makes questions (optional).** A fresh, shuffled set of questions from the notes: short answer, fill-in-the-blank, multiple choice and true/false, with new numbers for maths. Choose how many, how much working space, whether to include answers (on the last page or in a separate PDF), and how many different versions.
-4. **Checks unclear words.** Before building the PDF, it asks about any words it couldn't read, offering its best guesses to pick from.
+1. **Types up handwriting.** Upload photos or scans of handwritten pages and get back a clean PDF laid out like the original page (same columns, same number of pages), keeping the wording, tables, maths and diagrams.
+2. **Same questions, new numbers.** Makes a fresh copy of a test or worksheet: every question stays the same, in the same order, but the numbers change so the answers are different. Works across several question papers on one page.
+3. **New practice questions.** A shuffled set of new questions from the notes: short answer, fill-in-the-blank, multiple choice and true/false.
+4. **Answers and working space.** Optional working space under each question, answers on the last page or in a separate PDF, and several different copies.
+5. **Checks unclear words.** Before building the PDF, it asks about any words it couldn't read, offering its best guesses to pick from.
 
 ## No typing needed
 
 After uploading, everything is guided with tap-to-choose questions:
 
-- What to make (typed notes, notes + questions, or just questions) and how to lay out the pages
-- Question options (count, working space, answers on the last page or in a separate PDF, versions)
+- What to make: typed-up copy, same questions with new numbers, new practice questions (tap any combination), and the page layout
+- Options: how many practice questions, working space, where the answers go, how many copies
 - Any hard-to-read words
-- An "Anything else?" menu after each PDF: make questions, a new set, bigger writing, or fix something
+- An "Anything else?" menu after each PDF: another copy with new numbers, practice questions, bigger writing, or fix something
 
 ## Install
 
